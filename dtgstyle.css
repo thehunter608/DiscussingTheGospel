@@ -1,0 +1,35 @@
+h1 {
+    font-size: 2.5em;
+    color: rgb(255, 123, 0);
+    margin-bottom: 0.5em;
+    border: outset;
+    background-color: antiquewhite;
+}
+h2 {
+    font-size: 2em;
+    color: blue;
+    margin-bottom: 0.5em;
+    border: double;
+    background-color: antiquewhite;
+    border-width: 4px;
+    border-color: black;
+}
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+    color: black;
+    font-weight: bold;
+}
+p {
+    font-size: 1em;
+    line-height: 1.6;
+    color: black;
+    margin-bottom: 1em;
+    font-weight: bold;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: green;
+    color: #000000;
+    margin: 20px;
+}
